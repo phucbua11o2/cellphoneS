@@ -1,0 +1,4 @@
+C:\Users\ISV34\source\repos\Cellphones\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\ISV34\source\repos\Cellphones\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\ISV34\source\repos\Cellphones_Test\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\ISV34\source\repos\Cellphones_Test\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
